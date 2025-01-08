@@ -3,11 +3,7 @@
 Welcome to the **Universal Finance Tracker**! This project allows you to explore the **historical performance** of stocks or assets, including **closing prices**, **trading volumes**, and **candlestick charts** over a customizable date range. 🚀
 
 Built with **Streamlit** for interactive web-based interfaces, **Plotly** for rich visualizations, and **Yahoo Finance API** (`yfinance`) to fetch stock data, this tool provides an easy way to track financial trends and make informed decisions. 💡
-# FinanceTracker
-A finance tracking app for stocks, indices, commodities, and more
-
 ---
-
 ## 🛠️ **Features**
 
 - **Interactive User Interface**:
